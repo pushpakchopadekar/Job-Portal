@@ -1,6 +1,6 @@
 # Job Portal - React.js
 
-A simple and responsive **Job Portal** built using **React.js** during my internship at **Pawar Technology Services**. This project allows users to browse job listings, view job details, and apply for jobs. It demonstrates my skills in frontend development, API integration, and UI/UX design.
+A simple and responsive **Job Portal** built using **React.js** during my internship at **Pawar Technology Services**. This project allows users to browse job listings, view job details, and apply for jobs. It demonstrates my skills in frontend development and UI/UX design.
 
 ## Features
 
