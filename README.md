@@ -27,11 +27,10 @@ A simple and responsive **Job Portal** built using **React.js** during my intern
 ) | ) |
 
 | ![Add Job](![image](https://github.com/user-attachments/assets/96b58651-226f-4aaa-82b8-cd3f4cd690c4)
-)
+
 ) | ) |
 
-| ![Browse Job](![image](https://github.com/user-attachments/assets/3f11b322-93ab-421a-87f6-3df8de7b7175)
-)
+| ![Browse Job](![image](https://github.com/user-attachments/assets/3f11b322-93ab-421a-87f6-3df8de7b7175))
 ) | ) |
 
 ## Installation
